@@ -1,0 +1,16 @@
+.storm{
+    height: 180px;
+    width: 180px;
+    position: absolute;
+}
+
+.electroBall{
+    height: 120px;
+    width: 180px;
+    position: absolute;
+    background-color: white;
+}
+
+body{
+    background-color:black;
+}
