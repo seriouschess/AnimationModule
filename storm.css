@@ -1,14 +1,11 @@
+/* css class name must match the name of the png file */
+
 .Storm{
-    height: 180px;
-    width: 180;
-    position: absolute;
+    position: absolute; 
 }
 
-.electroBall{
-    height: 120px;
-    width: 180px;
+.DumbfireEffect{
     position: absolute;
-    background-color: white;
 }
 
 body{
